@@ -1,3 +1,3 @@
-# MongoDB EXpressJs REST API with AUTH
+# MongoDB EXpressJs AUTH
 
 ### A cool MongoDB EXpressJs REST API with AUTH
